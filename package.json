@@ -1,0 +1,11 @@
+{
+  "name": "node-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "word_detect.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "patrick.ruan",
+  "license": "ISC"
+}
